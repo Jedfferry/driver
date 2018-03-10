@@ -93,7 +93,7 @@ module_init(led_init);
 module_exit(led_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("GEC210");
+MODULE_AUTHOR("MYM");
 MODULE_DESCRIPTION("just a driver test,134xxxxx;qq:3455..");
 
 
