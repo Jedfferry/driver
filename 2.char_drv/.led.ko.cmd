@@ -1,0 +1,1 @@
+cmd_/usr/mkdrv/src/driver/2.char_drv/led.ko := /usr/local/arm/arm-2009q3/bin/arm-none-linux-gnueabi-ld -EL -r  -T /usr/mkdrv/src/android-kernel-samsung-dev/scripts/module-common.lds --build-id -o /usr/mkdrv/src/driver/2.char_drv/led.ko /usr/mkdrv/src/driver/2.char_drv/led.o /usr/mkdrv/src/driver/2.char_drv/led.mod.o
